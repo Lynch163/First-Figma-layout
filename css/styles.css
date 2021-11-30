@@ -60,7 +60,7 @@ margin: 0 auto;
 }
 
 .wrapper-bg-general, .footer{
-background: url(./images/bgc.jpg) no-repeat center;
+background: url(/images/bgc.jpg) no-repeat center;
 }
 
 /*Header styles start*/
