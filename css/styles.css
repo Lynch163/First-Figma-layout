@@ -60,7 +60,7 @@ margin: 0 auto;
 }
 
 .wrapper-bg-general, .footer{
-background: url(/images/bgc.jpg) no-repeat center;
+background: url(images/bgc.jpg) no-repeat center;
 }
 
 /*Header styles start*/
@@ -112,7 +112,7 @@ color: white;
 /*Intro styles start*/
 
 .intro{
-background: url(/images/footer-bg.jpg) no-repeat center;
+background: url(images/footer-bg.jpg) no-repeat center;
 background-size: cover;
 min-height: 100vh;
 padding-top: 270px;
@@ -219,7 +219,7 @@ padding-left: 623px;
 /*What are we doing styles start*/
 
 .what_are_we_doing{
-/*background: url(/images/bgc.jpg) no-repeat center;*/
+/*background: url(images/bgc.jpg) no-repeat center;*/
 display: flex;
 flex-wrap: wrap;
 align-items: center;
